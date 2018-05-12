@@ -1,0 +1,30 @@
+_repo: Molly-Brown-of-Kentucky_36736
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36736-h/images/molly7cover.jpg
+creator:
+  author:
+    agent_name: Speed, Nell
+    birthdate: 1878
+    deathdate: 1913
+    gutenberg_agent_id: '9429'
+    url: http://www.gutenberg.org/2009/agents/9429
+description: ''
+gutenberg_issued: '2011-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36736'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Letter writing -- Juvenile fiction'
+- !lcsh 'Kentucky -- Social life and customs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcsh 'War stories'
+title: Molly Brown of Kentucky
+url: http://www.gutenberg.org/ebooks/36736
